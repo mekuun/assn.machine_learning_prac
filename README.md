@@ -14,27 +14,27 @@
 
 ## Notebooks
 
-HTML-версии практических заданий:
+Практические задания в формате Jupyter Notebook:
 
-- `pandas-base.html` — Pandas, NumPy и Matplotlib;
-- `pandas-research.html` — исследовательские задачи по Pandas;
-- `sklearn-knn.html` — основы scikit-learn и KNN;
-- `knn.html` — KNN: классификация и регрессия;
-- `categorical-features.html` — анализ данных и категориальные признаки;
-- `linear-regression.html` — линейная регрессия и регуляризация;
-- `regression-research.html` — исследовательские задачи по регрессии;
-- `linear-classification.html` — линейные модели для классификации;
-- `classification-research.html` — исследовательские задачи по классификации;
-- `svm.html` — SVM;
-- `svm-research.html` — исследовательские задачи по SVM;
-- `decision-trees.html` — деревья решений;
-- `ensembles.html` — ансамбли моделей;
-- `random-forests.html` — случайные леса и отбор признаков;
-- `gradient-boosting-1.html` — градиентный бустинг, часть 1;
-- `gradient-boosting-2.html` — градиентный бустинг, часть 2;
-- `clustering.html` — кластеризация и методы снижения размерности;
-- `clustering-research.html` — исследовательские задачи по кластеризации;
-- `semi-supervised.html` — частичное обучение и снижение размерности.
+- `pandas-base.ipynb` — Pandas, NumPy и Matplotlib;
+- `pandas-research.ipynb` — исследовательские задачи по Pandas;
+- `sklearn-knn.ipynb` — основы scikit-learn и KNN;
+- `knn.ipynb` — KNN: классификация и регрессия;
+- `categorical-features.ipynb` — анализ данных и категориальные признаки;
+- `linear-regression.ipynb` — линейная регрессия и регуляризация;
+- `regression-research.ipynb` — исследовательские задачи по регрессии;
+- `linear-classification.ipynb` — линейные модели для классификации;
+- `classification-research.ipynb` — исследовательские задачи по классификации;
+- `svm.ipynb` — SVM;
+- `svm-research.ipynb` — исследовательские задачи по SVM;
+- `decision-trees.ipynb` — деревья решений;
+- `ensembles.ipynb` — ансамбли моделей;
+- `random-forests.ipynb` — случайные леса и отбор признаков;
+- `gradient-boosting-1.ipynb` — градиентный бустинг, часть 1;
+- `gradient-boosting-2.ipynb` — градиентный бустинг, часть 2;
+- `clustering.ipynb` — кластеризация и методы снижения размерности;
+- `clustering-research.ipynb` — исследовательские задачи по кластеризации;
+- `semi-supervised.ipynb` — частичное обучение и снижение размерности.
 
 ## Unit Tests
 
