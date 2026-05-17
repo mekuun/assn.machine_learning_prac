@@ -40,17 +40,17 @@
 
 Задания для проверяющей системы:
 
-- `task1.py` — Python basics.
-- `task2.py` — word counts.
-- `task3.py` — function maximum.
-- `task4_1.py`, `task4_2.py` — matrix operations.
-- `task5_1.py`, `task5_2.py` — arrays and vectors.
-- `task6.py` — feature scaling.
-- `task7.py` — KNN cross-validation.
-- `task8.py` — categorical encoding.
-- `task9.py` — SVM classifier.
-- `task10.py` — decision tree criteria.
-- `task11.py` — potential regression.
-- `task12.py` — CatBoost regression.
-- `task13.py` — clustering metrics.
-- `task14.py` — KMeans classifier.
+- `task1` — базовые задачи на Python: строки, римские числа, класс банковской карты, генератор простых чисел и общий префикс строк.
+- `task2` — подсчет частот слов в тексте с записью результата в файл.
+- `task3` — поиск максимального значения функции на целых элементах списка с возвратом значения и индекса.
+- `task4` — операции с матрицами: срезы, диагональ и замена значений; реализовано на списках и NumPy.
+- `task5` — задачи на массивы и векторы: мультимножества, произведения, grayscale-изображения, RLE и cosine distance.
+- `task6` — реализация MinMaxScaler и StandardScaler для нормализации признаков.
+- `task7` — k-fold разбиение и подбор параметров KNN через кросс-валидацию.
+- `task8` — кодирование категориальных признаков: one-hot, counter encoding, fold counters и веса объектов.
+- `task9` — обучение SVM-классификатора и предсказание по выбранным признакам.
+- `task10` — критерии качества разбиения для деревьев решений: entropy, Gini и classification error.
+- `task11` — подготовка признаков из двумерных матриц потенциала и обучение модели для регрессии.
+- `task12` — обработка табличных данных о фильмах и обучение CatBoost-регрессора.
+- `task13` — метрики качества кластеризации: silhouette score и BCubed.
+- `task14` — классификатор на основе KMeans и semi-supervised learning.
